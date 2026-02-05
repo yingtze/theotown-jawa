@@ -3,7 +3,7 @@
     <string name="settings_title">Setelan</string>
     <string name="loadcity_title">Bukak Kutha</string>
     <string name="createcity_title">Kutha Anyar</string>
-    <string name="settings_defaults">Bawaan</string>
+    <string name="settings_defaults">Gawan</string>
     <string name="settings_apply">Terapke</string>
     <string name="createcity_mapsize">Ukuran:</string>
     <string name="createcity_cityname">Jeneng kutha:</string>
@@ -105,7 +105,7 @@
     <string name="draft_medic01_title">Rumah sakit</string>
     <string name="draft_medic01_text">Rumah sakit gedhe iso nangani akeh pasien lan ngrampungke kahanan darurat cepet.</string>
     <string name="draft_school00_title">SD</string>
-    <string name="draft_school00_text">Panggonan bocah cilik sinau.\nPendidikan ngolehi wong sing luwih sugih pindah nyang kuthamu.</string>
+    <string name="draft_school00_text">Panggonan nggo bocah cilik sinau. Ukurane ra cukup gedhe nek luwih seko desa cilik.\nPendidikan nggawe wong sugih gelem pindah mlebu kuthamu.</string>
     <string name="draft_school01_title">SMA</string>
     <string name="draft_school01_text">Panggonan bocah gedhe sinau.\nPendidikan ngolehi wong sing luwih sugih pindah nyang kuthamu.</string>
     <string name="draft_museum00_title">Museum</string>
@@ -142,7 +142,7 @@
     <string name="draft_statue00_title">Patung</string>
     <string name="draft_statue00_text">Patung nggo ngurmati pendiri kutha. Warga seneng manggon karo kerjo cedhak bangunan sing apik.</string>
     <string name="draft_gillender00_title">Gedung Gillender</string>
-    <string name="draft_gillender00_text">Tiruan sing akurat banget seko Gedung Gillender. Suwun nggo 250,000 unduhan!</string>
+    <string name="draft_gillender00_text">Tiruan sing persis seko Gedung Gillender. Suwun nggo 250,000 unduhan!</string>
     <string name="topic_thanks">Suwun nggo dhukunganmu sing luar biasa!</string>
     <string name="topic_cake">Kue-ne mung apus-apusan!</string>
     <string name="topic_panic">Ojo panik</string>
@@ -185,7 +185,7 @@
     <string name="topic_animals">Ra onok kewan sing disakiti pas nggawe iki!</string>
     <string name="topic_users">Nggoleki 100,000 pemain</string>
     <string name="topic_free">Game iki gratis :D</string>
-    <string name="topic_about">Koe iso nyoba nutul pojok tengen ngisor</string>
+    <string name="topic_about">Koe iso nyoba mencet pojok tengen ngisor</string>
     <string name="topic_letsplay">Ayo mainke aku ;)</string>
     <string name="topic_tutorial">Tutorial kasedhiya :)</string>
     <string name="topic_donate">Onok tombol donasi neng beranda</string>
@@ -330,7 +330,7 @@
     <string name="draft_middlepark00_clock_text">Pasang menara jam hias sing gedhe nggo mbantu wargamu nepati wektu.</string>
     <string name="notify_power_low">Pembangkit listrik meh kakehan beban. Coba mbangun sing anyar.</string>
     <string name="notify_water_low">Kutha kehabisan banyu. Coba mbangun pompa banyu utawa menara banyu anyar.</string>
-    <string name="notify_religion">Iman dadi pondasi kutha. Opo koe gelem mbantu mbangun panggonan ibadah maneh?</string>
+    <string name="notify_religion">Iman awakdewe dadi pondasi kutha. Opo koe gelem mbantu mbangun panggonan ibadah maneh?</string>
     <string name="notify_park">Panggonan iki surem banget. Opo awakdhewe iso entuk taman neng kene?</string>
     <string name="notify_sport">Ra onok nggon nggo olahraga. Elek tenan.</string>
     <string name="buildinginfo_happiness">Kasenengan sakabehe: %1$.0f%%</string>
@@ -395,7 +395,7 @@
     <string name="draft_radio00_faith_title">Genesis FM</string>
     <string name="draft_radio00_faith_text">Ngirim obrolan babagan iman, asal-usul, lan spiritualitas. Dadi omah ibadah sing jangkauane adoh banget.\n\nMung siji program radio sing diolehi neng wektu sing padha. Program lawas bakal dibusak.</string>
     <string name="draft_lighthouse00_title">Mercusuar</string>
-    <string name="draft_lighthouse00_text">Sorotan cahya sing digawe digunakake nggo nuntun kapal neng jaman biyen. Saiki mung dadi struktur hiasan.</string>
+    <string name="draft_lighthouse00_text">Sorotan cahya sing digawe nggo nuntun kapal neng jaman biyen. Saiki mung dadi struktur hiasan.</string>
     <string name="draft_road02_title">Dalan tol</string>
     <string name="draft_road02_text">Kendaraan kenceng oleh liwat dalan iki. Pas nggo transportasi cepet neng lingkungan kutha.</string>
     <string name="budget_road">Dalan</string>
@@ -405,8 +405,8 @@
     <string name="tutorial_welcome">Sugeng rawuh neng tutorial!</string>
     <string name="tutorial_minimap">Koe iso tansah ngetokne lan ndhelike peta mini.</string>
     <string name="tutorial_buildroad_a">Awakdewe miwiti mbangun sawetara dalan dhisik. Pilih sing paling gampang lan murah — dalan lemah.</string>
-    <string name="tutorial_buildroad_b">Deleh dalan neng kothak sing ditandhani. Nggo mbangun, tutul nggo nyetel titik wiwitan, terus tutul maneh nggo nyetel titik akhir.</string>
-    <string name="tutorial_buildroad_c">Wes apik! Saiki tutup alat dalane.</string>
+    <string name="tutorial_buildroad_b">Deleh dalan neng kothak sing ditandhani. Nggo mbangun, pencet nggo nyetel titik awal, terus pencet maneh nggo nyetel titik akhir.</string>
+    <string name="tutorial_buildroad_c">Wes apik! Saiki, tutup alat dalane.</string>
     <string name="tutorial_buildenergy_a">Ayo nyoba mbangun panel surya - kudune cukup nggo desa cilik.</string>
     <string name="tutorial_buildenergy_b">Deleh neng kothak sing ditandhani.</string>
     <string name="tutorial_buildenergy_c">Sip!</string>
@@ -430,11 +430,11 @@
     <string name="tutorial_buildindustrial_b">Deleh zona neng kothak sing ditandhani.</string>
     <string name="tutorial_buildindustrial_c">Wes apik. Saiki bangunan bakal dibangun.</string>
     <string name="tutorial_industrial_keepaway">Koe kudu ngadohake zona industri seko zona liyane mergo polusi lan swara rame sing dihasilke.</string>
-    <string name="tutorial_rci">Tutul tombol iki nggo ndeleng info permintaan rinci nggo saben jinis zona. Permintaan positif tegese wong pengin pindah mrene.</string>
+    <string name="tutorial_rci">Pencet tombol iki nggo ndeleng info permintaan rinci nggo saben jinis zona. Permintaan positif tegese wong pengin pindah mrene.</string>
     <string name="tutorial_speed_fast">Koe iso nyepetke utawa nglambatke kacepetan simulasi nggo nyuda wektu nunggu utawa ngaso game.</string>
     <string name="tutorial_speed_normal">Setel balik nyang kacepetan normal saiki.</string>
     <string name="tutorial_money_task">Tugasmu yaiku golek dhuwit seko pajak nggo nggedhekake kuthamu.</string>
-    <string name="tutorial_money_info">Tutul neng pojok tengen ngisor nggo entuk info luwih lengkap babagan dhuwitmu utawa nggo ngowahi pajak.</string>
+    <string name="tutorial_money_info">Pencet neng pojok tengen ngisor nggo entuk info luwih lengkap babagan dhuwitmu utawa nggo ngowahi pajak.</string>
     <string name="tutorial_congrats">Selamet, koe wis sinau dasar-dasar TheoTown. Saiki koe iso mulai kuthamu dhewe :)</string>
     <string name="draft_road03_title">Dalan siji arah</string>
     <string name="draft_road03_text">Mobil mung bisa mlaku neng siji arah neng dalan iki. Gunakke nggo ngatur lalu lintas.</string>
@@ -487,7 +487,7 @@
     <string name="ci_loan_remaining_runtime">Wektu turahan: %2$,d wulan, %1$,d dina</string>
     <string name="ci_loan_paybackcost">Rego mbalekne: %1$s</string>
     <string name="ci_loan_estate">Saldo: %1$s</string>
-    <string name="topic_support_ads">Koe iso ndhukung kita kanthi nutul iklan :)</string>
+    <string name="topic_support_ads">Koe iso ndhukung awakdewe karo mencet iklan :)</string>
     <string name="settings_disaster_tornado">Tornado</string>
     <string name="disaster_tornado_title">Tornado</string>
     <string name="disaster_tornado_text">Celuk tornado gedhe sing bakal ngrusak kabeh neng dalan sing ra bisa diprediksi.</string>
@@ -649,7 +649,7 @@
     <string name="draft_railwaystation00_title">Stasiun sepur</string>
     <string name="draft_railwaystation00_text">Sepur minangka cara sing apik nggo nyuda lalu lintas neng dalanmu. Mbangun stasiun neng macem-macem wilayah kuthamu lan sambungke nggunakake rel sepur.</string>
     <string name="draft_school02_title">SD cilik</string>
-    <string name="draft_school02_text">Panggonan bocah cilik sinau. Iki ora cukup gedhe nggo apa wae sing luwih gedhe tinimbang desa cilik.\nPendidikan ngolehi wong sing luwih sugih pindah nyang kuthamu.</string>
+    <string name="draft_school02_text">Panggonan nggo bocah cilik sinau. Ukurane ra cukup gedhe nek luwih seko desa cilik.\nPendidikan nggawe wong sugih gelem pindah mlebu kuthamu.</string>
     <string name="toolremove_zone_title">Hapus zona</string>
     <string name="toolremove_zone_text">Alat iki bisa digunakake nggo mbusak zona.</string>
     <string name="budget_rail">Rel sepur</string>
@@ -668,9 +668,9 @@
     <string name="draft_beach00_text">Cerah lan santai. Populer nggo warga lokal lan turis.</string>
     <string name="draft_biergarten00_title">Taman bir</string>
     <string name="draft_biergarten00_text">Panggonan sing apik nggo ngaso lan njupuk ombenan seger.</string>
-    <string name="notify_noreszone">Wong pengin manggon neng kutha kita. Gawe zona perumahan nggo wong-wong mau mbangun omah.</string>
-    <string name="notify_nocomzone">Mbangun zona komersial - kutha butuh toko lan kantor.</string>
-    <string name="notify_noindzone">Pabrik lan gudang uga bisa dibangun neng kutha kita, nanging koe kudu nggawe zona nggo wong-wong mau dhisik.</string>
+    <string name="notify_noreszone">Wong pengin manggon neng kutha awakdewe. Gawe zona perumahan nggo wong-wong mau mbangun omah.</string>
+    <string name="notify_nocomzone">Mbangun zona komersial - kutha awakdewe butuh toko lan kantor.</string>
+    <string name="notify_noindzone">Pabrik lan gudang uga bisa dibangun neng kutha awakdewe, nanging koe kudu nggawe zona nggo wong-wong mau dhisik.</string>
     <string name="createcity_sizebigbigbig">Raksasa</string>
     <string name="locale">en</string>
     <string name="draft_police02_title">Markas Besar S.W.A.T.</string>
@@ -680,7 +680,7 @@
     <string name="happiness_environment">Lingkungan</string>
     <string name="happiness_freetime">Wektu luang</string>
     <string name="notify_noroad">Sawetara bangunan pedhot seko jaringan dalan. Koe kudu nimbang mbangun luwih akeh dalan.</string>
-    <string name="notify_water_waste">Infrastruktur pengolahan limbah kita saiki ora bisa nangani limbah sing akeh banget!</string>
+    <string name="notify_water_waste">Infrastruktur pengolahan limbah awakdewe saiki ora bisa nangani limbah sing akeh banget!</string>
     <string name="influence_management_title">Manajemen</string>
     <string name="influence_management_text">Kutha sing dikelola kanthi apik yaiku kutha sing efisien.</string>
     <string name="happiness_management">Manajemen</string>
@@ -726,9 +726,9 @@
     <string name="roadinfo_trafficlights_on">Lampu lalu lintas urip</string>
     <string name="roadinfo_trafficlights_off">Lampu lalu lintas mati</string>
     <string name="notify_crime">Gelombang kejahatan wis dilaporake bubar. Warga bakal tambah kuwatir yen koe ora ngatasi masalah iki.</string>
-    <string name="tutorial_buildbridge_a">Mungkin kita kudu nambah lalu lintas kanthi mbangun dalan utama. Pilih dalan desa.</string>
-    <string name="tutorial_buildbridge_b">Tutul titik wiwitan lan titik pungkasan dalan sing direncanakake. Deleng kepiye jembatan bakal dibangun kanthi otomatis neng sadhuwure kali.</string>
-    <string name="tutorial_buildbridge_c">Dadi, kita wis rampung mbangun.</string>
+    <string name="tutorial_buildbridge_a">Kayane awakdewe kudu nambah lancare lalu lintas karo mbangun dalan utama. Pilih dalan desa.</string>
+    <string name="tutorial_buildbridge_b">Pencet titik awal lan titik akhir dalan sing arep dibangun. Deloken carane jembatan bakal kebangun otomatis neng ndhuwur kali.</string>
+    <string name="tutorial_buildbridge_c">Dadi, awakdewe wis rampung mbangun.</string>
     <string name="draft_beachnearwater00_title">Pantai</string>
     <string name="draft_beachnearwater00_text">Cerah lan santai. Populer nggo warga lokal lan turis.</string>
     <string name="loadcity_version_premium">Versi %1$,d (Premium)</string>
@@ -747,7 +747,7 @@
     <string name="draft_road04_title">Dalan gedhe</string>
     <string name="draft_road05_title">Dalan tol</string>
     <string name="draft_road04_text">Dalan sing apik karo pembatas wit. Bisa nangani luwih akeh lalu lintas tinimbang dalan tunggal.</string>
-    <string name="draft_road05_text">Dalan sing sampurna nggo nyambungake wilayah sing adoh. Larang, nanging mobil bisa nggayuh kacepetan dhuwur neng kana.</string>
+    <string name="draft_road05_text">Dalan sing pas banget nggo nyambungake wilayah sing adoh. Larang, nanging mobil bisa nggayuh kacepetan dhuwur neng kana.</string>
     <string name="notify_unhappy">Wong neng kene gak seneng mergo %1$s. Koe kudu nyoba ngrampungake masalah kasebut.</string>
     <string name="happiness_general">Kasenengan umum</string>
     <string name="draft_rnk_isolateddwelling_title">Papan Panggonan Terpencil</string>
